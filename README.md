@@ -10,3 +10,8 @@ I am working as a Project Engineer in Wipro Technologies, I am 2018 B.Tech passo
 
 I have worked on few different project as Devloper where technologies used were front-end devlopment, networking, and bug fixing.
 
+For now I know :
+
+1. JavaScript
+2. repl.it
+3. NodeJS
