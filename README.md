@@ -2,7 +2,7 @@
 
 This project is going to be used as my first online portfolio.
 
-Hi I am Vishad,
+Hi I am Vishad Saxena,
 
 This is a short intoduction about me.
 
